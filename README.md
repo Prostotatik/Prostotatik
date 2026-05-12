@@ -122,7 +122,7 @@
 ## 🔥 Streak Stats
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&short_numbers=true" />
+  <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=Prostotatik&theme=github-dark-blue&hide_border=true&short_numbers=true" />
 </a>
 
 <br/>
@@ -132,7 +132,7 @@
 ## 📊 Most Used Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" />
+  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Prostotatik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" />
 </a>
 
 <br/>
@@ -142,7 +142,7 @@
 ## 📈 Contribution Graph
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Prostotatik&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" />
 </a>
 
 </div>
