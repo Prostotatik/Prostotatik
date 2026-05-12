@@ -121,7 +121,9 @@
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&short_numbers=true" />
+</a>
 
 <br/>
 
@@ -129,18 +131,18 @@
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" />
+</a>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YOUR_GITHUB_USERNAME&bg_color=1F222E&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" />
+</a>
 
 </div>
