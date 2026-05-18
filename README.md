@@ -2,7 +2,7 @@
 
 <h1>Moroz Fedor</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=3%2B+years+experience;Software+Engineer;Backend+%2F+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=3%2B+years+experience;Software+Engineer;Backend+%2F+DevOps+%2F+FullStack)](https://git.io/typing-svg)
 
 <br/>
 
