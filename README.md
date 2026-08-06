@@ -69,7 +69,7 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
       <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
     </td>
@@ -101,7 +101,7 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLM_Integration-10A37F?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLM_Integration-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -155,14 +155,14 @@
       <b>🧭 Engineering Practices</b>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/System_Design-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microservices-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Agile_%2F_Scrum-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Code_Review-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unit_Testing-30363D?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/System_Design-30363D?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservices-30363D?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agile_%2F_Scrum-30363D?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Code_Review-30363D?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unit_Testing-30363D?style=flat-square&logo=testinglibrary&logoColor=white" />
       <img src="https://img.shields.io/badge/Team_Leadership-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Performance_Optimization-30363D?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Technical_Documentation-30363D?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Performance_Optimization-30363D?style=flat-square&logo=lighthouse&logoColor=white" />
+      <img src="https://img.shields.io/badge/Technical_Documentation-30363D?style=flat-square&logo=markdown&logoColor=white" />
     </td>
   </tr>
 </table>
