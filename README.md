@@ -64,7 +64,7 @@
       <b>☕ Kotlin &amp; JVM</b>
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=kotlin,ktor,spring,gradle&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=kotlin,java,ktor,spring,gradle&theme=dark" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" />
@@ -97,7 +97,7 @@
       <b>🤖 AI / ML</b>
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=scikitlearn,py&theme=dark" />
       <br/><br/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -143,6 +143,8 @@
       <b>💬 Bots &amp; Integrations</b>
     </td>
     <td valign="top">
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/aiogram-0088cc?style=flat-square&logo=telegram&logoColor=white" />
       <img src="https://img.shields.io/badge/python--telegram--bot-0088cc?style=flat-square&logo=telegram&logoColor=white" />
       <img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
@@ -155,6 +157,8 @@
       <b>🧭 Engineering Practices</b>
     </td>
     <td valign="top">
+      <img src="https://skillicons.dev/icons?i=docker,github,md&theme=dark" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/System_Design-30363D?style=flat-square&logo=diagramsdotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/Microservices-30363D?style=flat-square&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Agile_%2F_Scrum-30363D?style=flat-square&logo=jira&logoColor=white" />
